@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   
-<img src="https://i.imgur.com/uVKXQUf.png" width="320" height="180">    
+<img src="https://i.imgur.com/uVKXQUf.png" width="360" height="180">    
 
   </a>
 
