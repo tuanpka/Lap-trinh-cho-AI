@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   
-<img src="https://i.imgur.com/czQMQGz.jpg" width="320" height="180">    
+<img src="https://i.imgur.com/uVKXQUf.png" width="320" height="180">    
 
   </a>
 
@@ -28,25 +28,6 @@
     <a href="https://github.com/tuanpka/Lap-trinh-cho-AI /issues">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#technology-stack">Technology Stack</a></li>
-      </ul>
-    </li>
-    <li>
-      </ul>
-    </li>
-    <li><a href="#author">Author</a></li>
-  </ol>
-</details>
 
 
 
